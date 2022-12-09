@@ -1,3 +1,48 @@
+Varför du inte ska använda Redux i dina egna projekt, även om du måste använda det på jobbet
+https://www.youtube.com/watch?v=5-1LM2NySR0
+
+Repetera React från grunden:
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started
+
+Bra introduktion till TypeScript (och tugga i er Zod också!):
+https://www.totaltypescript.com/tutorials
+
+Wordpres REST-API
+https://developer.wordpress.org/rest-api/
+
+Dokumentation av WooCommerce REST-API
+https://woocommerce.github.io/woocommerce-rest-api-docs/#libraries-and-tools
+
+(product properties)
+https://woocommerce.github.io/woocommerce-rest-api-docs/?javascript#product-properties
+
+WooCommerce REST-API på npm:
+https://www.npmjs.com/package/@woocommerce/woocommerce-rest-api
+
+Dokumentation av NextJS
+https://nextjs.org/docs/getting-started
+
+Hämta data i NextJS
+https://nextjs.org/docs/basic-features/data-fetching/overview
+
+Hämta bilder i NextJS:
+https://nextjs.org/docs/basic-features/image-optimization
+
+Inställningar för att hämta bilder i NextJS
+https://nextjs.org/docs/api-reference/next/image#remote-patterns
+
+Hela tutorialserien som jag använt:
+https://medium.com/geekculture/headless-woocommerce-next-js-set-up-next-js-b8d2193b2688
+
+En annan bra tutorial som visar hur man kan göra en varukorg med Zustand:
+https://blog.devgenius.io/managing-persistent-states-in-nextjs-with-zustand-e6feea1a2d36
+
+Dokumentation till Jotai, ett annat bra verktyg för global state (enklare än Zustand)
+https://jotai.org/docs/introduction
+
+Ny Learn with Jason om Tanstack Query kommer den 22 december:
+https://www.learnwithjason.dev/tanstack-query-v4
+
 [Learn with Jason, Redux med Redux ToolKit](https://www.learnwithjason.dev/let-s-learn-modern-redux)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
